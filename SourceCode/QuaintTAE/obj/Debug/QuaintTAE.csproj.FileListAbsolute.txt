@@ -1,0 +1,13 @@
+D:\JK Drive\Work Space\Quaint Tour and Event Management System (QTAEMS)\QuaintTAE\QuaintTAE\obj\Debug\QuaintTAE.csprojResolveAssemblyReference.cache
+D:\JK Drive\Work Space\Quaint Tour and Event Management System (QTAEMS)\QuaintTAE\QuaintTAE\bin\QuaintTAE.dll.config
+D:\JK Drive\Work Space\Quaint Tour and Event Management System (QTAEMS)\QuaintTAE\QuaintTAE\bin\QuaintTAE.dll
+D:\JK Drive\Work Space\Quaint Tour and Event Management System (QTAEMS)\QuaintTAE\QuaintTAE\bin\QuaintTAE.pdb
+D:\JK Drive\Work Space\Quaint Tour and Event Management System (QTAEMS)\QuaintTAE\QuaintTAE\bin\QuaintPark.dll
+D:\JK Drive\Work Space\Quaint Tour and Event Management System (QTAEMS)\QuaintTAE\QuaintTAE\obj\Debug\QuaintTAE.dll
+D:\JK Drive\Work Space\Quaint Tour and Event Management System (QTAEMS)\QuaintTAE\QuaintTAE\obj\Debug\QuaintTAE.pdb
+E:\Work-Speace\Quaint TAE\QuaintTAE\QuaintTAE\bin\QuaintTAE.dll.config
+E:\Work-Speace\Quaint TAE\QuaintTAE\QuaintTAE\bin\QuaintTAE.dll
+E:\Work-Speace\Quaint TAE\QuaintTAE\QuaintTAE\bin\QuaintTAE.pdb
+E:\Work-Speace\Quaint TAE\QuaintTAE\QuaintTAE\obj\Debug\QuaintTAE.csprojResolveAssemblyReference.cache
+E:\Work-Speace\Quaint TAE\QuaintTAE\QuaintTAE\obj\Debug\QuaintTAE.dll
+E:\Work-Speace\Quaint TAE\QuaintTAE\QuaintTAE\obj\Debug\QuaintTAE.pdb

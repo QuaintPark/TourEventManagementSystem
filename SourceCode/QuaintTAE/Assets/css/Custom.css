@@ -1,0 +1,45 @@
+﻿  .col-md-12 {
+    font-size: 16px;
+}
+.form-control{
+    margin-top: 20px;
+}
+
+.places p, h1{
+    margin: -50px 0 29px;
+    padding-top: 30px;
+}
+
+.places p:after
+{
+    border-top: 0;
+}
+
+label{
+    font-size: 17px;
+    font-style: normal;
+    font-family: 'Book Antiqua'
+}
+
+.form-control{
+    margin-top: 10px;
+    font-size: 15px;
+    height: 40px;
+}
+
+.btn-primary{
+    background: #cfd693f2;
+    font-size: 17px;
+    font-family: 'Book Antiqua'
+}
+
+.search input
+{
+    font-size: 20px;
+    font-family: 'Book Antiqua'    
+}
+
+footer .contact ul li, footer .contact ul li a, footer .info ul li a
+{
+    font-size : 14px;
+}
